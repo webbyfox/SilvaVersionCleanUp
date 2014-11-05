@@ -1,0 +1,8 @@
+Version : 1.2
+Author: Rizwan Mansuri
+Email : mr.mansuri@gmail.com
+
+changes
+======
+  * Added publication path as form field so it can be run on individual publication
+  * introduce external method so can be run via HTTP call 

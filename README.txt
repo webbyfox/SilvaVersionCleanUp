@@ -20,3 +20,6 @@ the acceptable age of Silva Versions and the minimal number of version per docum
 After starting the CleanUp process, all Silva Documents are processed and versions 
 are deleted if the document has more versions then the minimal amount and if 
 the versions are older than the acceptable age.
+
+
+Updates:
