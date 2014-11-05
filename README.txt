@@ -5,7 +5,7 @@ See also LICENSE.txt
 
 Meta::
 
-  Valid for:  SilvaVersionCleanUp 1.0
+  Valid for:  SilvaVersionCleanUp 1.2
   Author:     Rizwan Mansuri
   Email:      mr.mansuri@gmail.com
 
