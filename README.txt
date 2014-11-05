@@ -6,8 +6,8 @@ See also LICENSE.txt
 Meta::
 
   Valid for:  SilvaVersionCleanUp 1.0
-  Author:     Benno Luthiger
-  Email:      benno.luthiger@id.ethz.ch
+  Author:     Rizwan Mansuri
+  Email:      mr.mansuri@gmail.com
 
 Manage old versions
 
@@ -23,3 +23,5 @@ the versions are older than the acceptable age.
 
 
 Updates:
+
+Added new field on form which takes Silva Publication path. Clean up can now run on individual publication and also added external method so can be called via HTTP request.
